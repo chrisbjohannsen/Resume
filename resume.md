@@ -23,7 +23,7 @@ currently serving in a DevOps role in order to expand my skillset.
   > * Modified TeamCity/Octopus build and deployment pipelines to deploy IAC and applications as part of the CI / CD Pipeline
   > * Ingest Octopus Deployment Events into Datadog and created dashboards for real time deployment visibility and alerting
 
-- ### Sr Software Engineer at Olo
+- ### Sr Software Engineer at [Olo](https://www.olo.com)
   #### 11/2019 - 10/2021
   In my role as a software engineer in the Ordering Group, I worked on projects focussed on reliability at scale triggered by a performance crisis due to COVID. I touched areas in the Public HTTP API, built new services to extract functionality out of a monolithic codebase to simplify team ownership and improve visibility, supported design and implementation of new features and mentored the team towards Scrum processes. This team is 100% remote with communication primarily via Slack/Zoom
 
@@ -34,7 +34,7 @@ currently serving in a DevOps role in order to expand my skillset.
   > * Created fully containerized integration test suite for order archival system.
   > * Served as a representative on the Containerization Cohort working to elevate containerized development at Olo
 
-- ### Sr Software Engineer at Tenable
+- ### Sr Software Engineer at [Tenable](https://www.tenable.io)
   #### 12/2017 - 10/2019
   In the role of a backend services engineer, I have worked on multiple projects including  addressing performance problems with a data export processes, hardening new services in preparation for production deployments and implementing the data persistence layers and rest api layers of new micro-services with Postgres and DynamoDB datastores. Additionally, I have gained experience with Kafka event processing pipelines, creating both producer and consumer code.  This is a 100% remote team so all our daily interaction is done via slack and zoom.
 
@@ -43,7 +43,7 @@ currently serving in a DevOps role in order to expand my skillset.
   > * Coding and deployment of several JVM based micro services to replace monolithic PHP services
   > * Contributor to “mob” designs of gen 2 reporting system in Tenable IO
 
-- ### BIOVIA - Sr Software Engineer at Accelerys/Biovia - Dassault Systèmes
+- ### BIOVIA - Sr Software Engineer at Accelerys/[Biovia - Dassault Systèmes](https://www.3ds.com/products-services/biovia/)
   #### 12/2013 - 12/2017
   As a full stack software engineer on a web based, enterprise level, scientific procedure builder, think of it as a recipe tool. The stack is made up of Grails RESTful services backing  a javascript single page app frontend using JSON as our primary serialization format. Our team is disperse with members across the USA and UK . We practice Agile like development, within the confines of a regulated industry.
 
@@ -60,7 +60,7 @@ currently serving in a DevOps role in order to expand my skillset.
 -------------------------------------------
 ### Education
 
-*Central Oregon Community College*
+[**Central Oregon Community College**](https://cocc.edu)
 A.A.S, COMPUTER INFORMATION SYSTEMS, 1999 - 2001
 
 --------------------------------------------
