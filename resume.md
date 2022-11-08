@@ -1,5 +1,5 @@
 # Christopher Johannsen
-###### [email](chrisbjohannsen@gmail.com) | [LinkedIn](https://www.linkedin.com/in/christopherjohannsen/) | [Github](https://github.com/chrisbjohannsen)
+###### [email](mailto:chrisbjohannsen@gmail.com) | [LinkedIn](https://www.linkedin.com/in/christopherjohannsen/) | [Github](https://github.com/chrisbjohannsen)
 
 -------------------------------------------
 ## Summary
