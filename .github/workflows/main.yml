@@ -3,7 +3,7 @@ uses: BaileyJM02/markdown-to-pdf@v1.2.0
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - '**.md'
 jobs:
