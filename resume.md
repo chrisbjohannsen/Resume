@@ -1,7 +1,7 @@
 # Christopher Johannsen
 ###### [email](mailto:chrisbjohannsen@gmail.com) | [LinkedIn](https://www.linkedin.com/in/christopherjohannsen/) | [Github](https://github.com/chrisbjohannsen)
 
--------------------------------------------
+---
 ## Summary
 
 I'm a pragmatic solutions developer with backgrounds in Microsoft .Net 
@@ -11,7 +11,7 @@ My primary focus for the past several years has been RESTful
 web api development in both .Net and JVM based technologies,
 currently serving in a DevOps role in order to expand my skillset.
 
--------------------------------------------
+---
 ## Experience
 
 - ### Sr DevOps Engineer at Olo
@@ -55,12 +55,13 @@ currently serving in a DevOps role in order to expand my skillset.
   > - Served as a cross-team representative on a new UI technology committee
   > - Forged our first deposit in the new UI technology, Angular 2 with Typescript
 
+---
+#### More Work History available upon request
 
-1. More Work History available upon request
--------------------------------------------
+---
 ### Education
 
 [**Central Oregon Community College**](https://cocc.edu)
 A.A.S, COMPUTER INFORMATION SYSTEMS, 1999 - 2001
 
---------------------------------------------
+---
