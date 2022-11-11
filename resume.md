@@ -5,7 +5,7 @@
 ## Summary
 
 I'm a pragmatic solutions developer with backgrounds in Microsoft .Net 
-and Java/Kotlin web services and apis, middle-tier api, database access 
+and Java/Kotlin web services and apis, middle-tier apis, database access 
 and Javascript single page applications. 
 My primary focus for the past several years has been RESTful 
 web api development in both .Net and JVM based technologies,
@@ -40,7 +40,7 @@ currently serving in a DevOps role in order to expand my skillset.
 
   #### *Accomplishments:*
   > * Production hardening of a kafka based streaming service via
-  > * Coding and deployment of several JVM based micro services to replace monolithic PHP services
+  > * Coding and deployment of several JVM based microservices to replace monolithic PHP services
   > * Contributor to “mob” designs of gen 2 reporting system in Tenable IO
 
 - ### BIOVIA - Sr Software Engineer at Accelerys/[Biovia - Dassault Systèmes](https://www.3ds.com/products-services/biovia/)
