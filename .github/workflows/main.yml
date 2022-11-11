@@ -7,17 +7,18 @@ on:
     paths:
       - '**.md'
 jobs:
-  converttopdf:
+  convert-to-pdf:
     name: BuildPDF
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: baileyjm02/markdown-to-pdf@v1
-      with:
-        input_path: resume.md
-        output_dir: pdf
-        build_html: false
-    - uses: actions/upload-artifact@v1
-      with:
-        name: resume.pdf
-        path: pdf
+      - uses: actions/checkout@v2
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_path: resume.md
+          output_dir: pdf
+          build_html: false
+      - uses: actions/upload-artifact@v1
+        with:
+          name: resume.pdf
+          path: pdf
+
