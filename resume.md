@@ -5,7 +5,7 @@
 ## Summary
 
 I'm a pragmatic solutions developer with backgrounds in Microsoft .Net 
-and Java/Kotlin web services and apis, middle-tier apis, database access 
+and JVM web services and apis, middle-tier apis, database access 
 and Javascript single page applications. 
 My primary focus for the past several years has been RESTful 
 web api development in both .Net and JVM based technologies,
