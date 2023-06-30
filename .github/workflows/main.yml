@@ -22,4 +22,14 @@ jobs:
           name: resume.pdf
           path: pdf
 
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download PDF
+        uses: actions/download@v3
+        with:
+          name: resume.pdf
+      - name: Configure AWS Creds
+        uses: aws-actions
+
 
