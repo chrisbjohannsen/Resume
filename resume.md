@@ -2,56 +2,52 @@
 ###### [email](mailto:chrisbjohannsen@gmail.com) | [LinkedIn](https://www.linkedin.com/in/christopherjohannsen/) | [Github](https://github.com/chrisbjohannsen)
 
 ---
-## Summary
+### Summary
 
-I'm a developer support focused engineer. My background as a software engineer gives me a unique perspective on operational requirements. I transitioned to a hybrid operational role with a passion for making the developers' lives easier by enabling automation for developer self-service.
+Dedicated and seasoned software engineer with over a decade of experience across diverse business domains. Proven expertise in collaborating as a valuable member of distributed Agile teams, adeptly applying development methodologies such as Scrum, XP, Kanban, and customized Agile hybrids. Demonstrated proficiency in utilizing open-source technologies, including Linux, Java, Postgres, and MySQL, and adept at navigating SaaS environments with both in-house hosting and AWS cloud services. Extensive DevOps experience in AWS EC2, RDS, DynamoDB, and S3. Well-versed in a variety of programming languages, databases, frameworks, and tools, including C#, Terraform, Ansible, Grails, and Git. A results-oriented professional committed to driving success in software engineering roles.
 
 ---
-## Experience
+### Experience
 
-- ### Sr DevOps Engineer at Olo
-  #### 10/2021 - Present
-  In my role as a DevOps engineer, I work as a contributor on a team responsible for supporting a variety of AWS products including: MSK (Managed Kafka), SQS, DynamoDB, Kinesis and ElasticCache/Redis. Additionally, we are tasked with supporting Redhat Tower/AWX and Hashicorp Consul. The infrastructure is maintained as code, primarily Terraform and Ansible scripts and deployed via Terraform Cloud/Ansible Tower. This team is 100% remote with communication primarily via Slack/Zoom.
+### Sr DevOps Engineer at [Olo](https://olo.com) - 10/2021 - Present
+As a Senior DevOps Engineer at Olo since November 2021, I play a pivotal role in addressing the infrastructure needs of the Release Engineering team. My responsibilities extend to maintaining our in-house release management application and overseeing the release pipeline for Olo's monolithic Platform codebase and associated dependencies. Additionally, I manage, support, and monitor our build and deployment infrastructure and environment. In my previous assignment, I served as a DevOps engineer within a traditional operations team before transitioning to the Release Engineering team in July 2023.
 
-  ##### *Accomplishments:*
-  > * Helped teams migrate from legacy, manually configured, infrastructure to modern IAC infrastructure.
-  > * Modified TeamCity/Octopus build and deployment pipelines to deploy IAC and applications as part of the CI / CD Pipeline.
-  > * Created Service to Ingest Octopus Deployment Events into Datadog and created dashboards for real time deployment visibility and alerting.
-  > * Supported the team's goal of migrating a legacy installation of RedHat Ansible Tower to it's open source equivalent, AWX.
-  > * Served as our team's support SME for our AWS managed Kakfa implementation by developing a developer FAQ.
-  > * Served on Support and 24-hour On-Call rotations for the team and Platform Operations at large.
-  > * Volunteered as an editor for the Olo Tech Blog.
+  ##### *Key Achievements:*
+- Facilitated the migration of teams from legacy, manually configured infrastructure to modern Infrastructure as Code (IAC) infrastructure.
+- Enhanced TeamCity/Octopus build and deployment pipelines to deploy IAC and applications seamlessly as part of the CI/CD Pipeline.
+- Implemented the integration of Octopus Deployment Events into Datadog, creating dashboards for real-time deployment visibility and alerting.
+- Collaborated with the team to migrate RedHat Ansible Tower to AWX.
 
-- ### Sr Software Engineer at [Olo](https://www.olo.com)
-  #### 11/2019 - 10/2021
-  In my role as a software engineer in the Ordering Group, I worked on projects focussed on reliability at scale triggered by a performance crisis due to COVID. I touched areas in the Public HTTP API, built new services to extract functionality out of a monolithic codebase to simplify team ownership and improve visibility, supported design and implementation of new features and mentored the team towards Scrum processes. This team is 100% remote with communication primarily via Slack/Zoom
+### Sr Software Engineer at [Olo](https://www.olo.com)  - 11/2019 - 10/2021
+During my tenure as a Senior Software Engineer in the Ordering Group at Olo from December 2019 to November 2021, I focused on projects aimed at ensuring reliability at scale, particularly in response to the challenges posed by the COVID-induced performance crisis. My contributions spanned the Public HTTP API, where I built new services to extract functionality from a monolithic codebase, simplifying team ownership and enhancing visibility. Additionally, I supported the design and implementation of new features and mentored the team towards Scrum processes.
 
-  ##### *Accomplishments:*
+  ##### *Key Achievements:*
 
-  > * Implemented a genericized message processing library to abstract underlying messaging technologies (SQS and Kafka).
-  > * Supported the design and implementation of an order archival system intended to reduce load on primary sql server.
-  > * Created fully containerized integration test suite for order archival system.
-  > * Served as a representative on the Containerization Cohort working to elevate containerized development at Olo.
+- Developed a genericized message processing library to abstract underlying messaging technologies (SQS and Kafka).
+- Supported the design and implementation of an order archival system to reduce load on the primary SQL server.
+- Created a fully containerized integration test suite for the order archival system.
+- Reduced the load on the primary SQL server by migrating application log data from MSSQL storage to Redshift via AWS Kinesis.
+- Represented the team on the Containerization Cohort, contributing to the elevation of containerized development at Olo.
 
-- ### Sr Software Engineer at [Tenable](https://www.tenable.io)
-  #### 12/2017 - 10/2019
-  In the role of a backend services engineer, I worked on multiple projects including: addressing performance problems with a data export processes and implementing the data persistence layers and rest api layers of new micro-services with Postgres and DynamoDB datastores. Additionally, I gained experience with Kafka event processing pipelines, creating both producer and consumer code.  This is a 100% remote team so all our daily interaction is done via slack and zoom.
 
-  #### *Accomplishments:*
-  > * Coding and deployment of several JVM based microservices to replace monolithic PHP services.
-  > * Contributor to “mob” designs of gen 2 reporting system in Tenable IO
+### Sr Software Engineer at [Tenable](https://www.tenable.io) - 12/2017 - 10/2019
+As a Senior Software Engineer at Tenable Network Security, I specialized in backend services, addressing performance issues with data export processes, and contributing to the hardening of new services for production deployments. My responsibilities included implementing data persistence layers and REST API layers for new microservices utilizing Postgres and DynamoDB datastores. I gained expertise in Kafka event processing pipelines and contributed to the coding and deployment of JVM-based microservices.
 
-- ### BIOVIA - Sr Software Engineer at Accelerys/[Biovia - Dassault Systèmes](https://www.3ds.com/products-services/biovia/)
-  #### 12/2013 - 12/2017
-  As a full stack software engineer on a web based, enterprise level, scientific procedure builder, think of it as a recipe tool. The stack being Grails RESTful services backing a javascript single page app frontend using JSON as our primary serialization format. The team was dispersed across the USA and UK. We practiced Agile style development, within the confines of a regulated industry.
+  #### *Key Achievements:*
+- Successfully performed production hardening of a Kafka-based streaming service.
+- Coded and deployed several JVM-based microservices, replacing monolithic PHP services.
+- Contributed to "mob" designs of the gen 2 reporting system in Tenable IO.
 
-  ##### *Accomplishments:*
-  > - Worked to stabilize the teams continuous integration process by codifying the build jobs to make branching simpler
-  > - Built a simplistic "tagging" architecture into our data model
-  > - Stabilized our installation process to meet client security demands
-  > - Mentored junior developers who have joined the team
-  > - Served as a cross-team representative on a new UI technology committee
-  > - Forged our first deposit in the new UI technology, Angular 2 with Typescript
+
+### Sr Software Engineer at [Biovia - Dassault Systèmes](https://www.3ds.com/products-services/biovia/)  - 12/2013 - 12/2017
+As a Senior Software Engineer at BIOVIA, I made significant contributions to a web-based scientific procedure builder. The stack included Grails RESTful services supporting a JavaScript single-page app frontend, and we operated within the Agile framework in a regulated industry. I played a key role in stabilizing the team's continuous integration process, mentored junior developers, and served as a cross-team representative on a new UI technology committee.
+
+  ##### *Key Achievements:*
+- Stabilized the team's continuous integration process by codifying build jobs to simplify branching and make pipelines source-controllable.
+- Mentored junior developers and contributed to a new UI technology committee.
+- Practiced test-driven and domain-driven development utilizing design patterns.
+- Created a proof-of-concept microservice to expose portions of XML documents as resources via REST.
+
 
 ---
 #### More Work History available upon request
@@ -59,7 +55,6 @@ I'm a developer support focused engineer. My background as a software engineer g
 ---
 ### Education
 
-[**Central Oregon Community College**](https://cocc.edu)
-A.A.S, COMPUTER INFORMATION SYSTEMS, 1999 - 2001
+[**Central Oregon Community College**](https://cocc.edu) : A.A.S, COMPUTER INFORMATION SYSTEMS, 1999 - 2001
 
 ---
