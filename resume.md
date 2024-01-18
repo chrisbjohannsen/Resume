@@ -55,6 +55,6 @@ As a Senior Software Engineer at BIOVIA, I made significant contributions to a w
 ---
 ### Education
 
-[**Central Oregon Community College**](https://cocc.edu) : A.A.S, COMPUTER INFORMATION SYSTEMS, 1999 - 2001
+[**Central Oregon Community College**](https://cocc.edu) : A.A.S, Computer Information Systems, 1999 - 2001
 
 ---
