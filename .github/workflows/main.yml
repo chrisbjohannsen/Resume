@@ -28,6 +28,7 @@ jobs:
           path: pdf
 
   publish-release:
+    needs: convert-to-pdf
     runs-on: ubuntu-latest
     permissions:
       contents: write
