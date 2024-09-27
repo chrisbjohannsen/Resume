@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - sept-2024
     paths:
       - '**.md'
 jobs:
@@ -25,5 +26,19 @@ jobs:
         with:
           name: resume.pdf
           path: pdf
+
+  publish-release:
+    needs: convert-to-pdf
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: resume.pdf
+      - uses: actions/checkout@v4
+      - uses: ncipollo/release-action@v1
+        with:
+          artifacts: "resume.pdf"
 
 
