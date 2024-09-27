@@ -9,8 +9,8 @@ Dedicated and seasoned software engineer with over a decade of experience across
 ---
 ### Experience
 
-### Sr DevOps Engineer at [Olo](https://olo.com) - 10/2021 - Present
-As a Senior DevOps Engineer at Olo since November 2021, I play a pivotal role in addressing the infrastructure needs of the Release Engineering team. My responsibilities extend to maintaining our in-house release management application and overseeing the release pipeline for Olo's monolithic Platform codebase and associated dependencies. Additionally, I manage, support, and monitor our build and deployment infrastructure and environment. In my previous assignment, I served as a DevOps engineer within a traditional operations team before transitioning to the Release Engineering team in July 2023.
+### Sr DevOps/Release Engineer at [Olo](https://olo.com) - 10/2021 - 10/2024
+As a Senior DevOps Engineer at Olo, I played a pivotal role in addressing the infrastructure needs of the Release Engineering team. My responsibilities extend from maintaining our in-house release management application and overseeing the release pipeline for Olo's monolithic Platform codebase and associated dependencies. Additionally, I managed, supported, and monitored our build and deployment infrastructure and AWS environment. In my previous assignment, I served as a DevOps engineer within a traditional operations team before transitioning to the Release Engineering team in July 2023.
 
   ##### *Key Achievements:*
 - Facilitated the migration of teams from legacy, manually configured infrastructure to modern Infrastructure as Code (IAC) infrastructure.
@@ -58,3 +58,9 @@ As a Senior Software Engineer at BIOVIA, I made significant contributions to a w
 [**Central Oregon Community College**](https://cocc.edu) : A.A.S, COMPUTER INFORMATION SYSTEMS, 1999 - 2001
 
 ---
+### Certifications
+[**Cisco Certified Network Associate**](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/associate/index.html) : CCNA, 2001-2003
+
+[**Private Pilot Airmen Certificate**](https://www.faa.gov/licenses_certificates/airmen_certification) : Airplane Single Engine & Instrument Airplane + Tail wheel, 2008-Present
+
+[**Amateur Extra Class Radio Operator**](https://www.fcc.gov/licensing-databases/licensing) : 2021-Present
