@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - sept-2024
     paths:
       - '**.md'
 jobs:
