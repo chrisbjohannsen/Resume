@@ -1,21 +1,37 @@
 name: Releases
 
+
 on:
   push:
     tags:
       - '*'
 
 jobs:
-
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/download-artifact@v4
-        with:
-          name: resume.pdf
       - uses: actions/checkout@v4
-      - uses: ncipollo/release-action@v1
         with:
-          artifacts: "resume.pdf"
+          sparse-checkout: |
+            resume.md
+          sparse-checkout-cone-mode: false
+
+      - name: Generate PDF from markdown
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_path: resume.md
+          output_dir: pdf
+          build_html: false
+
+      - name: Prepare release artifact
+        run: |
+          mkdir -p release
+          find pdf -type f -name '*.pdf' -exec cp {} release/resume.pdf \;
+          ls -l release
+
+      - name: Publish release asset
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "release/resume.pdf"
