@@ -7,6 +7,7 @@ on:
       - sept-2024
     paths:
       - '**.md'
+
 jobs:
   convert-to-pdf:
     name: BuildPDF
@@ -14,14 +15,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          sparse-checkout: | 
+          sparse-checkout: |
             resume.md
           sparse-checkout-cone-mode: false
+
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: resume.md
           output_dir: pdf
           build_html: false
+
       - uses: actions/upload-artifact@v4
         with:
           name: resume.pdf
@@ -36,9 +39,10 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           name: resume.pdf
-      - uses: actions/checkout@v4
+
       - uses: ncipollo/release-action@v1
         with:
+          tag: "resume-${{ github.run_number }}"
+          name: "Resume PDF ${{ github.run_number }}"
           artifacts: "resume.pdf"
-
-
+          allowUpdates: true
