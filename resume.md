@@ -34,8 +34,8 @@ During my tenure as a Senior Software Engineer in the Ordering Group at Olo from
 As a Senior Software Engineer at Tenable Network Security, I specialized in backend services, addressing performance issues with data export processes, and contributing to the hardening of new services for production deployments. My responsibilities included implementing data persistence layers and REST API layers for new microservices utilizing Postgres and DynamoDB datastores. I gained expertise in Kafka event processing pipelines and contributed to the coding and deployment of JVM-based microservices.
 
   #### *Key Achievements:*
-- Successfully performed production hardening of a Kafka-based streaming service.
 - Coded and deployed several JVM-based microservices, replacing monolithic PHP services.
+- Implemented Java and Kotlin applications using SpringBoot based framework.
 - Contributed to "mob" designs of the gen 2 reporting system in Tenable IO.
 
 
@@ -56,6 +56,7 @@ As a Senior Software Engineer at BIOVIA, I made significant contributions to a w
 ### Education
 
 [**Central Oregon Community College**](https://cocc.edu) : A.A.S, COMPUTER INFORMATION SYSTEMS, 1999 - 2001
+[**Central Oregon Community College**](https://cocc.edu) : Certificate, Manufacturing Technology, 2024-2025
 
 ---
 ### Certifications
