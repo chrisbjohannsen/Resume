@@ -4,7 +4,7 @@
 ---
 ### Summary
 
-Dedicated and seasoned software engineer with over a decade of experience across diverse business domains. Proven expertise in collaborating as a valuable member of distributed Agile teams, adeptly applying development methodologies such as Scrum, XP, Kanban, and customized Agile hybrids. Demonstrated proficiency in utilizing open-source technologies, including Linux, Java, Postgres, and MySQL, and adept at navigating SaaS environments with both in-house hosting and AWS cloud services. Extensive DevOps experience in AWS EC2, RDS, DynamoDB, and S3. Well-versed in a variety of programming languages, databases, frameworks, and tools, including C#, Terraform, Ansible, Grails, and Git. A results-oriented professional committed to driving success in software engineering roles.
+Dedicated and seasoned software engineer with over a decade of experience across diverse business domains. Proven expertise in collaborating as a valuable member of distributed Agile teams, adeptly applying development methodologies such as Scrum, XP, Kanban, and customized Agile hybrids. Demonstrated proficiency in utilizing open-source technologies, including Linux, Java, Postgres, and MySQL, and adept at navigating SaaS environments with both in-house hosting and AWS cloud services. Extensive DevOps experience in AWS EC2, RDS, DynamoDB, and S3. Well-versed in a variety of programming languages, databases, frameworks, and tools, including Java, Kotlin, Groovy, C#, SpringBoot, Terraform, Ansible and Git. A results-oriented professional committed to driving success in software engineering roles.
 
 ---
 ### Experience
@@ -56,6 +56,7 @@ As a Senior Software Engineer at BIOVIA, I made significant contributions to a w
 ### Education
 
 [**Central Oregon Community College**](https://cocc.edu) : A.A.S, COMPUTER INFORMATION SYSTEMS, 1999 - 2001
+
 [**Central Oregon Community College**](https://cocc.edu) : Certificate, Manufacturing Technology, 2024-2025
 
 ---
