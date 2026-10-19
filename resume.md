@@ -9,6 +9,13 @@ Dedicated and seasoned software engineer with over a decade of experience across
 ---
 ### Experience
 
+### Sr Software Engineer at [Bellese](https://bellese.io) - 10/2026 - Present
+Leverage test-driven development to deliver backend systems and user interfaces to ease development and integration between them.
+Contribute to the development of APIs, specifications, and data models, facilitating integration with frontend applications and third-party systems.
+Design, implement, and maintain data interactions. Optimize data operations for performance and scalability, and ensure data integrity and security.
+Design and develop user interfaces, informed by UX designs that meet customer needs.
+Understand and contribute to functional and non-functional automated testing suites.
+
 ### Sr DevOps/Release Engineer at [Olo](https://olo.com) - 10/2021 - 10/2024
 As a Senior DevOps Engineer at Olo, I played a pivotal role in addressing the infrastructure needs of the Release Engineering team. My responsibilities extend from maintaining our in-house release management application and overseeing the release pipeline for Olo's monolithic Platform codebase and associated dependencies. Additionally, I managed, supported, and monitored our build and deployment infrastructure and AWS environment. In my previous assignment, I served as a DevOps engineer within a traditional operations team before transitioning to the Release Engineering team in July 2023.
 
