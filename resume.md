@@ -64,8 +64,6 @@ As a Senior Software Engineer at BIOVIA, I made significant contributions to a w
 
 [**Central Oregon Community College**](https://cocc.edu) : A.A.S, COMPUTER INFORMATION SYSTEMS, 1999 - 2001
 
-[**Central Oregon Community College**](https://cocc.edu) : Certificate, Manufacturing Technology, 2024-2025
-
 ---
 ### Certifications
 [**Cisco Certified Network Associate**](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/associate/index.html) : CCNA, 2001-2003
